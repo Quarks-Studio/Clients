@@ -54,8 +54,8 @@ El sitio web JanoDaniHugo está diseñado pensando en brindar a los seguidores u
 
 Si quieres trabajar con nosotros o deseas más información sobre el proyecto, no dudes en contactarnos. Estamos aquí para ayudarte.
 
-- Correo Electrónico: [contacto@Quarks-Studio.com](mailto:contacto@Quarks-studio.com)
-- Sitio Web: [https://Quarks-Studio.com](https://Quarks-Studio.com)
+- Correo Electrónico: [contacto@quarks-studio.com](mailto:contacto@quarks-studio.com)
+- Sitio Web: [https://quarks-studio.com](https://quarks-studio.com)
 
 ---
 
