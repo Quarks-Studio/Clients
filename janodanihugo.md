@@ -18,7 +18,7 @@ El sitio web combina elementos visuales e interactivos para atraer la atención 
 
 ## 🌌 Estética y Experiencia
 
-El diseño del sitio web está inspirado en una estética tenebrosa y enigmática, cuidadosamente desarrollado para resonar con la audiencia. Cada elemento visual y funcional ha sido planeado para crear una narrativa que refuerza el lanzamiento de las próximas canciones.
+El diseño del sitio web está inspirado en una estética tenebrosa y enigmática, cuidadosamente desarrollado para resonar con la audiencia. Cada elemento visual y funcional ha sido planeado para crear una narrativa que refuerza el lanzamiento de los próximos proyectos.
 
 ---
 
@@ -41,12 +41,6 @@ A continuación, algunas vistas del proyecto que ilustran la experiencia:
 - Frontend: Flutter, Dart.
 - Backend: Firebase.
 
-
----
-
-## 💡 Dirigido a tus Fans
-
-El sitio web JanoDaniHugo está diseñado pensando en brindar a los seguidores una experiencia atractiva e interactiva que los mantenga conectados con las novedades musicales.
 
 ---
 
